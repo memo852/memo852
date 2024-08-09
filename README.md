@@ -1,7 +1,7 @@
 ![MasterHead](https://img.freepik.com/free-vector/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code-isolated-vector-illustration_613284-1446.jpg?t=st=1723149363~exp=1723152963~hmac=1157a8ab064bd97912d61b838c7c8387843839902bf99d7a205845dbd200df1e&w=1380)
 <h1 align="center">Hi 👋, I'm Mehmet Tas</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/coding-concept-illustration_82635880.htm#fromView=search&page=1&position=46&uuid=41070934-1d2f-431b-b8dd-c469f331b3e2">
+<img align="right" alt="coding" width="400" height="300" src="https://cdn.pixabay.com/photo/2023/10/20/14/25/ai-generated-8329596_1280.jpg">
 - 🌱 I’m currently learning **dotnet**
 
 - 💬 Ask me about **javascript,html,angular,css,bootstrap,dotnet**
