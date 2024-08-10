@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **dotnet**
 
-- 💬 Ask me about **javascript,html,angular,css,bootstrap,dotnet**
+- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,Typescript,Angular,dotnet**
 
 - ⚡ Fun fact **I think I am funny**
 
