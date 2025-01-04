@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+- 🚛 I graduated from the **logistics** department.
+
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
